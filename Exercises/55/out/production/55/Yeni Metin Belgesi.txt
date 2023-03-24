@@ -1,0 +1,12 @@
+Kullanıcıdan m, n sayılarını okuyan ve yüksekliği M
+genişliği N olan içi boş bir dikdörtgeni çizdiriniz.
+
+m:7 , n:6
+
+******
+*    *
+*    *
+*    *
+*    *
+*    *
+******

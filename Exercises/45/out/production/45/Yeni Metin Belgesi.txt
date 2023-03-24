@@ -1,0 +1,9 @@
+Programın akışı şu şekildedir:
+
+Scanner sınıfı kullanarak kullanıcıdan bir tamsayı girdisi alınır ve m değişkenine atanır. Bu değer üçgenin yüksekliği olarak kullanılacaktır.
+for döngüsü, üçgenin satırlarını oluşturmak için kullanılır. İlk döngü, üçgenin en üst satırından başlayarak, kullanıcının girdiği yüksekliğe kadar devam eder.
+İç içe iki for döngüsü kullanılarak, her satırın başındaki boşluk sayısı ve yıldız (*) sayısı hesaplanır ve yazdırılır.
+İlk iç döngü, her satırın başına boşluk eklemek için kullanılır. Döngü, m-i kez çalıştırılır ve her seferinde bir boşluk yazdırılır.
+İkinci iç döngü, yıldızları yazdırmak için kullanılır. Döngü, 2*i-1 kez çalıştırılır ve ilk ve son sütunlarda () karakteri yazdırılır. Ayrıca, son satırda () karakterleri arasında boşluk olmadığından, bu durum da kontrol edilir.
+İç döngüler tamamlandıktan sonra, her satırın sonunda bir satır atlamak için System.out.println(); kullanılır.
+Sonuç olarak, bu program kullanıcının girdiği yüksekliğe göre bir üçgen şekli oluşturur ve bu üçgen şekli ekrana yazdırılır.
