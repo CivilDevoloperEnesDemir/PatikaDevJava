@@ -1,0 +1,1 @@
+Dizideki Elemanların Ortalamasını Hesaplayan Program
